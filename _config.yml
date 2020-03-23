@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Bruno Alfirević
 description: Full Stack Software Developer
+
+github:
+  is_project_page: false
